@@ -1,14 +1,7 @@
 # Python script to scrape an article given the url of the article and store the extracted text in a file
 # Url: https://medium.com/@subashgandyer/papa-what-is-a-neural-network-c5e5cc427c7
 
-<<<<<<< HEAD
-import os
-=======
 import os, sys
->>>>>>> github_task
-=======
-import os, sys
->>>>>>> github_task
 import requests
 import re
 # Code here - Import BeautifulSoup library
